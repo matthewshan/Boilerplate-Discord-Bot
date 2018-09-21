@@ -18,7 +18,7 @@ class Bot(discord.Client):
         print('User: [{}] typing at time: {}:{}:{}'.format(user.display_name, when.hour-4, when.minute, when.second))
 
     async def on_message(self, message):
-        if(message.content.startswith('hello'):
+        if(message.content.startswith('hello')):
             await self.send_message(message.channel, 'world')
 
 
