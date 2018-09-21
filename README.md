@@ -11,9 +11,11 @@ pip install discord
 ```
 
 On Windows:
+```powershell
 pip install discord
 pip install aiohttp
 pip install websockets
+```
 
 # How to run on Linux/Mac:
 
