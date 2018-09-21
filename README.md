@@ -15,7 +15,7 @@ pip install discord
 pip install aiohttp
 pip install websockets
 
-# How to run on Linux:
+# How to run on Linux/Mac:
 
 ```bash
 cd Boilerplate-Discord-Bot
@@ -25,6 +25,7 @@ or
 python3.6 run.py
 ```
 
+# How to run on Windows:
 
 ```powershell
 cd Boilerplate-Discord-Bot
