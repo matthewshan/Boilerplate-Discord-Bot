@@ -5,16 +5,9 @@
 Python 3.6
 download here: https://www.python.org/downloads/release/python-366/
 
-On linux:
+Pip installs:
 ```bash
 pip install discord
-```
-
-On Windows:
-```powershell
-pip install discord
-pip install aiohttp
-pip install websockets
 ```
 
 # How to run on Linux/Mac:
